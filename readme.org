@@ -2,5 +2,7 @@
 
 Sui Bootcamp 2024 Farming
 - Reference mechanism: https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide
-- Reference code: https://github.com/pancakeswap/pancake-contracts-move/tree/main/pancake-smart-chef/sources
+- Reference code:
+  + https://github.com/pancakeswap/pancake-contracts-move/tree/main/pancake-smart-chef/sources
+  + https://docs.pancakeswap.finance/developers/smart-contracts-aptos/syrup-pools
 Modified & Adapted to Sui Network by hvietdo99
