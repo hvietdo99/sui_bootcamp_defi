@@ -1,0 +1,12 @@
+[package]
+name = "Stake"
+version = "0.0.1"
+
+[dependencies.Sui]
+git = "https://github.com/MystenLabs/sui.git"
+subdir = "crates/sui-framework/packages/sui-framework"
+rev = "mainnet"
+
+[addresses]
+bootcamp = "0x0"
+default_admin = "0x27026d1a84ca1e30f9999449fb416abc4f7a9c77f93fcffcfd4626c67e74c4a1"
