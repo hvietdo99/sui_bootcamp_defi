@@ -1,5 +1,6 @@
 # Sui Bootcamp 2024
 
+# Sui Bootcamp 2024
 - Reference mechanism: https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide
 - Reference code: https://github.com/pancakeswap/pancake-contracts-move/tree/main/pancake-smart-chef/sources
 Modified & Adapted to Sui Network by hvietdo99
